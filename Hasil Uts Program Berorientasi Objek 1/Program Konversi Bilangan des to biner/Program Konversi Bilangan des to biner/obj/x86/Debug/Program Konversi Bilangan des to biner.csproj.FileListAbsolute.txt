@@ -1,0 +1,5 @@
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Program Konversi Bilangan des to biner\Program Konversi Bilangan des to biner\bin\Debug\Program Konversi Bilangan des to biner.exe
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Program Konversi Bilangan des to biner\Program Konversi Bilangan des to biner\bin\Debug\Program Konversi Bilangan des to biner.pdb
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Program Konversi Bilangan des to biner\Program Konversi Bilangan des to biner\obj\x86\Debug\Program Konversi Bilangan des to biner.exe
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Program Konversi Bilangan des to biner\Program Konversi Bilangan des to biner\obj\x86\Debug\Program Konversi Bilangan des to biner.pdb
+C:\Users\ACER\Documents\Visual Studio 2010\Projects\Program Konversi Bilangan des to biner\Program Konversi Bilangan des to biner\obj\x86\Debug\Program Konversi Bilangan des to biner.csprojResolveAssemblyReference.cache
